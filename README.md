@@ -55,10 +55,6 @@ git clone https://github.com/Rio-Haisyar-Fadillah/ml-classification-mastery
 cd classification-intelligence-suite
 pip install -r requirements.txt
 
- 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
+ 
 
 <p align="center">Built with precision & passion for data science.</p>
