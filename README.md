@@ -20,11 +20,11 @@ This repository is a deep-dive technical reference covering the full spectrum of
 
 | # | Module | Description |
 |---|--------|-------------|
-| 01 | **Pengukuran Kedekatan & Similaritas Data | Distance metrics, cosine similarity, Jaccard, Euclidean |
-| 02 | **Decision Tree & Rule-Based Classifier*| ID3, C4.5, CART, rule extraction & pruning strategies |
-| 03 | **Probabilistic & Instance-Based | Naive Bayes, KNN, Gaussian distributions |
-| 04 | **Ensemble Methods| Random Forest, AdaBoost, XGBoost, Bagging & Boosting |
-| 05 | **Evaluasi Model Klasifikasi | Confusion Matrix, ROC-AUC, F1-Score, Cross Validation |
+| 01 | Pengukuran Kedekatan & Similaritas Data | Distance metrics, cosine similarity, Jaccard, Euclidean |
+| 02 | Decision Tree & Rule-Based Classifier*| ID3, C4.5, CART, rule extraction & pruning strategies |
+| 03 | Probabilistic & Instance-Based | Naive Bayes, KNN, Gaussian distributions |
+| 04 | Ensemble Methods| Random Forest, AdaBoost, XGBoost, Bagging & Boosting |
+| 05 | Evaluasi Model Klasifikasi | Confusion Matrix, ROC-AUC, F1-Score, Cross Validation |
 
 
 
