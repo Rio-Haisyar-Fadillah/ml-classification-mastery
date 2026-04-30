@@ -51,7 +51,7 @@ Python · Scikit-learn · NumPy · Pandas · Matplotlib · Seaborn · Jupyter
 Getting Started
 
 bash
-git clone https://github.com/Rio-Haisyar-Fadillah/classification-intelligence-suite.git
+git clone https://github.com/Rio-Haisyar-Fadillah/ml-classification-mastery
 cd classification-intelligence-suite
 pip install -r requirements.txt
 
